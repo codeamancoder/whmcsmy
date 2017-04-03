@@ -1,0 +1,164 @@
+[Mon Mar 27 16:13:02 2017] [error] [client 91.239.81.62] File does not exist: /home/srknnet/hosting/public_html/favicon.ico, referer: http://hosting.serkankoc.net/
+[Mon Mar 27 16:16:42 2017] [error] [client 91.239.81.62] File does not exist: /home/srknnet/hosting/public_html/favicon.ico, referer: http://hosting.serkankoc.net/admin/login.php?logout=1
+[Mon Mar 27 16:21:11 2017] [error] [client 141.8.142.47] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Mon Mar 27 17:19:02 2017] [error] [client 121.3.130.55] File does not exist: /home/srknnet/hosting/public_html/tobpre
+[Mon Mar 27 18:48:41 2017] [error] [client 141.8.183.3] File does not exist: /home/srknnet/hosting/public_html/robots.txt
+[Mon Mar 27 18:48:45 2017] [error] [client 141.8.183.3] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Mon Mar 27 20:06:46 2017] [error] [client 144.76.8.66] File does not exist: /home/srknnet/hosting/public_html/robots.txt
+[Tue Mar 28 00:16:59 2017] [error] [client 5.255.253.77] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Tue Mar 28 02:24:44 2017] [error] [client 162.210.196.130] File does not exist: /home/srknnet/hosting/public_html/robots.txt
+[Tue Mar 28 04:14:21 2017] [error] [client 141.8.183.3] File does not exist: /home/srknnet/hosting/public_html/robots.txt
+[Tue Mar 28 04:14:25 2017] [error] [client 141.8.183.3] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Tue Mar 28 05:29:20 2017] [crit] [client 83.253.217.65] mod_spamhaus: address 65.217.253.83.sbl-xbl.spamhaus.org is blacklisted. Deny connection to hosting.serkankoc.net/backups.php
+[Tue Mar 28 05:29:56 2017] [error] [client 77.78.43.47] File does not exist: /home/srknnet/hosting/public_html/backups.php
+[Tue Mar 28 07:17:06 2017] [error] [client 116.66.195.174] File does not exist: /home/srknnet/hosting/public_html/backups.php
+[Tue Mar 28 07:52:01 2017] [error] [client 181.52.97.69] File does not exist: /home/srknnet/hosting/public_html/backups.php
+[Tue Mar 28 08:33:35 2017] [error] [client 179.106.158.161] File does not exist: /home/srknnet/hosting/public_html/backups.php
+[Tue Mar 28 08:34:48 2017] [error] [client 91.239.81.62] File does not exist: /home/srknnet/hosting/public_html/favicon.ico, referer: http://hosting.serkankoc.net/
+[Tue Mar 28 08:44:32 2017] [error] [client 101.24.127.160] File does not exist: /home/srknnet/hosting/public_html/backups.php
+[Tue Mar 28 09:35:40 2017] [error] [client 94.228.25.6] File does not exist: /home/srknnet/hosting/public_html/backups.php
+[Tue Mar 28 09:40:10 2017] [error] [client 5.255.253.77] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Tue Mar 28 09:48:24 2017] [error] [client 36.106.251.13] File does not exist: /home/srknnet/hosting/public_html/backups.php
+[Tue Mar 28 10:33:30 2017] [error] [client 69.30.211.2] File does not exist: /home/srknnet/hosting/public_html/robots.txt
+[Tue Mar 28 11:24:19 2017] [error] [client 141.8.184.24] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Tue Mar 28 15:48:53 2017] [error] [client 42.236.10.81] File does not exist: /home/srknnet/hosting/public_html/jcnt, referer: http://hosting.serkankoc.net/jcnt/licni-kontakt-ogl-sa-slikom.html
+[Tue Mar 28 15:54:48 2017] [error] [client 188.24.39.196] File does not exist: /home/srknnet/hosting/public_html/backups.php
+[Tue Mar 28 16:01:32 2017] [error] [client 91.239.81.62] File does not exist: /home/srknnet/hosting/public_html/favicon.ico, referer: http://hosting.serkankoc.net/
+[Tue Mar 28 16:09:12 2017] [error] [client 95.108.179.2] File does not exist: /home/srknnet/hosting/public_html/robots.txt
+[Tue Mar 28 16:09:17 2017] [error] [client 93.158.152.74] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Tue Mar 28 19:21:01 2017] [error] [client 178.154.189.36] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Tue Mar 28 19:21:51 2017] [error] [client 153.151.184.103] File does not exist: /home/srknnet/hosting/public_html/tobpre
+[Tue Mar 28 20:21:01 2017] [error] [client 66.249.93.89] File does not exist: /home/srknnet/hosting/public_html/favicon.ico, referer: http://hosting.serkankoc.net/
+[Tue Mar 28 20:31:53 2017] [error] [client 185.120.200.86] File does not exist: /home/srknnet/hosting/public_html/backups.php
+[Tue Mar 28 23:03:12 2017] [error] [client 86.61.218.74] File does not exist: /home/srknnet/hosting/public_html/backups.php
+[Tue Mar 28 23:06:49 2017] [error] [client 95.111.79.149] File does not exist: /home/srknnet/hosting/public_html/backups.php
+[Wed Mar 29 01:13:05 2017] [error] [client 178.154.189.39] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Wed Mar 29 03:20:33 2017] [error] [client 78.36.81.86] File does not exist: /home/srknnet/hosting/public_html/backups.php
+[Wed Mar 29 03:30:17 2017] [error] [client 141.8.183.3] File does not exist: /home/srknnet/hosting/public_html/robots.txt
+[Wed Mar 29 03:30:21 2017] [error] [client 141.8.183.3] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Wed Mar 29 04:01:35 2017] [error] [client 174.34.135.242] File does not exist: /home/srknnet/hosting/public_html/robots.txt
+[Wed Mar 29 05:53:13 2017] [error] [client 180.150.157.38] File does not exist: /home/srknnet/hosting/public_html/backups.php
+[Wed Mar 29 07:15:42 2017] [error] [client 5.255.253.77] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Wed Mar 29 08:25:33 2017] [crit] [client 83.148.71.225] mod_spamhaus: address 225.71.148.83.sbl-xbl.spamhaus.org is blacklisted. Deny connection to hosting.serkankoc.net/backups.php
+[Wed Mar 29 08:25:49 2017] [error] [client 178.209.110.150] File does not exist: /home/srknnet/hosting/public_html/backups.php
+[Wed Mar 29 09:33:14 2017] [error] [client 66.249.93.89] File does not exist: /home/srknnet/hosting/public_html/favicon.ico, referer: http://hosting.serkankoc.net/
+[Wed Mar 29 11:41:15 2017] [error] [client 77.70.31.180] File does not exist: /home/srknnet/hosting/public_html/backups.php
+[Wed Mar 29 12:36:46 2017] [crit] [client 178.187.129.227] mod_spamhaus: address 178.187.129.227 is blacklisted but it's not in the 127.0.0.0/8 range. POSSIBLE WILD-CARDING TYPOSQUATTERS ATTACK! IP address will not get filtered
+[Wed Mar 29 12:36:46 2017] [error] [client 178.187.129.227] File does not exist: /home/srknnet/hosting/public_html/tobpre
+[Wed Mar 29 17:01:46 2017] [error] [client 62.210.101.96] File does not exist: /home/srknnet/hosting/public_html/robots.txt
+[Wed Mar 29 17:26:10 2017] [error] [client 141.8.183.3] File does not exist: /home/srknnet/hosting/public_html/robots.txt
+[Wed Mar 29 17:26:40 2017] [error] [client 5.255.253.77] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Wed Mar 29 19:21:54 2017] [error] [client 133.218.39.5] File does not exist: /home/srknnet/hosting/public_html/tobpre
+[Wed Mar 29 20:28:05 2017] [error] [client 141.8.183.3] File does not exist: /home/srknnet/hosting/public_html/robots.txt
+[Wed Mar 29 20:28:09 2017] [error] [client 141.8.183.3] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Wed Mar 29 23:19:15 2017] [error] [client 5.255.253.77] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Thu Mar 30 00:53:39 2017] [error] [client 180.153.236.157] File does not exist: /home/srknnet/hosting/public_html/jcnt, referer: http://hosting.serkankoc.net/jcnt/teri-galiyan-ost-lonceng-cinta.html
+[Thu Mar 30 00:55:16 2017] [error] [client 42.236.10.72] File does not exist: /home/srknnet/hosting/public_html/robots.txt, referer: http://hosting.serkankoc.net/robots.txt
+[Wed Mar 29 23:16:13 2017] [error] [client 141.8.184.9] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Wed Mar 29 23:17:07 2017] [error] [client 93.158.152.74] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Wed Mar 29 23:19:49 2017] [error] [client 95.164.1.157] File does not exist: /home/srknnet/hosting/public_html/favicon.ico, referer: http://hosting.serkankoc.net/
+[Wed Mar 29 23:27:55 2017] [error] [client 95.164.1.157] File does not exist: /home/srknnet/hosting/public_html/favicon.ico, referer: http://hosting.serkankoc.net/
+[Wed Mar 29 23:47:55 2017] [error] [client 106.47.160.15] File does not exist: /home/srknnet/hosting/public_html/jcnt
+[Thu Mar 30 01:01:25 2017] [error] [client 95.48.188.178] File does not exist: /home/srknnet/hosting/public_html/backups.php
+[Thu Mar 30 02:02:41 2017] [error] [client 94.154.239.69] File does not exist: /home/srknnet/hosting/public_html/robots.txt
+[Thu Mar 30 11:04:48 2017] [error] [client 141.8.183.3] File does not exist: /home/srknnet/hosting/public_html/robots.txt
+[Thu Mar 30 14:34:37 2017] [crit] [client 213.126.12.226] mod_spamhaus: address 226.12.126.213.sbl-xbl.spamhaus.org is blacklisted. Deny connection to hosting.serkankoc.net/.well-known/acme-challenge/xml_rpc.class.php
+[Thu Mar 30 14:52:17 2017] [crit] [client 91.140.52.203] mod_spamhaus: address 91.140.52.203 is blacklisted but it's not in the 127.0.0.0/8 range. POSSIBLE WILD-CARDING TYPOSQUATTERS ATTACK! IP address will not get filtered
+[Thu Mar 30 14:52:17 2017] [error] [client 91.140.52.203] File does not exist: /home/srknnet/hosting/public_html/includes/jscript/tiny_mce/plugins/iespell/viewport-compatible.php
+[Thu Mar 30 15:16:03 2017] [error] [client 141.8.184.24] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Thu Mar 30 16:00:32 2017] [error] [client 218.221.206.234] File does not exist: /home/srknnet/hosting/public_html/tobpre
+[Thu Mar 30 19:05:47 2017] [error] [client 94.54.37.137] File does not exist: /home/srknnet/hosting/public_html/backups.php
+[Thu Mar 30 19:11:18 2017] [error] [client 141.8.183.3] File does not exist: /home/srknnet/hosting/public_html/robots.txt
+[Thu Mar 30 19:11:22 2017] [error] [client 141.8.183.3] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Thu Mar 30 20:00:52 2017] [error] [client 144.76.30.241] File does not exist: /home/srknnet/hosting/public_html/robots.txt
+[Thu Mar 30 20:08:02 2017] [error] [client 42.236.10.100] File does not exist: /home/srknnet/hosting/public_html/robots.txt, referer: http://hosting.serkankoc.net/robots.txt
+[Thu Mar 30 20:08:03 2017] [error] [client 42.236.99.16] File does not exist: /home/srknnet/hosting/public_html/jcnt, referer: http://hosting.serkankoc.net/jcnt/tujhyat-jeev-rangala-zee-marathi-serial-mp3-total-songs.html
+[Thu Mar 30 22:22:44 2017] [crit] [client 82.220.37.30] mod_spamhaus: address 82.220.37.30 is blacklisted but it's not in the 127.0.0.0/8 range. POSSIBLE WILD-CARDING TYPOSQUATTERS ATTACK! IP address will not get filtered
+[Thu Mar 30 22:22:44 2017] [error] [client 82.220.37.30] File does not exist: /home/srknnet/hosting/public_html/hirje2
+[Thu Mar 30 22:22:44 2017] [crit] [client 82.220.37.30] mod_spamhaus: address 82.220.37.30 is blacklisted but it's not in the 127.0.0.0/8 range. POSSIBLE WILD-CARDING TYPOSQUATTERS ATTACK! IP address will not get filtered
+[Thu Mar 30 22:22:44 2017] [error] [client 82.220.37.30] File does not exist: /home/srknnet/hosting/public_html/hirje2
+[Thu Mar 30 22:22:45 2017] [crit] [client 82.220.37.30] mod_spamhaus: address 82.220.37.30 is blacklisted but it's not in the 127.0.0.0/8 range. POSSIBLE WILD-CARDING TYPOSQUATTERS ATTACK! IP address will not get filtered
+[Thu Mar 30 22:22:45 2017] [error] [client 82.220.37.30] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Thu Mar 30 22:22:45 2017] [crit] [client 82.220.37.30] mod_spamhaus: address 82.220.37.30 is blacklisted but it's not in the 127.0.0.0/8 range. POSSIBLE WILD-CARDING TYPOSQUATTERS ATTACK! IP address will not get filtered
+[Thu Mar 30 22:22:45 2017] [error] [client 82.220.37.30] File does not exist: /home/srknnet/hosting/public_html/templates_c/f3ab0dbc51f7bfb2ebc78730582191a1^%%AC^ACC^ACC45BED%%emailtpl%3Aemailmessage.php
+[Thu Mar 30 22:22:45 2017] [crit] [client 82.220.37.30] mod_spamhaus: address 82.220.37.30 is blacklisted but it's not in the 127.0.0.0/8 range. POSSIBLE WILD-CARDING TYPOSQUATTERS ATTACK! IP address will not get filtered
+[Thu Mar 30 22:22:45 2017] [error] [client 82.220.37.30] PHP Notice:  Use of undefined constant SMARTY_CORE_DIR - assumed 'SMARTY_CORE_DIR' in /home/srknnet/hosting/public_html/templates_c/%%83^83B^83B33D84%%header.tpl.php on line 3
+[Thu Mar 30 22:22:45 2017] [error] [client 82.220.37.30] PHP Warning:  require_once(SMARTY_CORE_DIRcore.load_plugins.php): failed to open stream: No such file or directory in /home/srknnet/hosting/public_html/templates_c/%%83^83B^83B33D84%%header.tpl.php on line 3
+[Thu Mar 30 22:22:45 2017] [error] [client 82.220.37.30] PHP Fatal error:  require_once(): Failed opening required 'SMARTY_CORE_DIRcore.load_plugins.php' (include_path='.:/usr/lib64/php') in /home/srknnet/hosting/public_html/templates_c/%%83^83B^83B33D84%%header.tpl.php on line 3
+[Thu Mar 30 22:22:46 2017] [crit] [client 82.220.37.30] mod_spamhaus: address 82.220.37.30 is blacklisted but it's not in the 127.0.0.0/8 range. POSSIBLE WILD-CARDING TYPOSQUATTERS ATTACK! IP address will not get filtered
+[Thu Mar 30 22:22:46 2017] [error] [client 82.220.37.30] File does not exist: /home/srknnet/hosting/public_html/templates_c/0d08a031a348532c98b4b628052df852^%%32^323^32349D85%%emailtpl%3Aplaintext.php
+[Thu Mar 30 22:30:51 2017] [error] [client 5.255.253.77] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Thu Mar 30 23:35:09 2017] [error] [client 141.8.184.24] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Fri Mar 31 05:33:51 2017] [error] [client 82.118.255.227] File does not exist: /home/srknnet/hosting/public_html/backups.php
+[Fri Mar 31 06:23:52 2017] [error] [client 141.8.183.3] File does not exist: /home/srknnet/hosting/public_html/robots.txt
+[Fri Mar 31 06:23:56 2017] [error] [client 141.8.183.3] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Fri Mar 31 06:24:03 2017] [error] [client 5.255.253.77] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Fri Mar 31 06:24:07 2017] [error] [client 178.154.189.9] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Fri Mar 31 09:13:07 2017] [error] [client 178.120.225.154] File does not exist: /home/srknnet/hosting/public_html/backups.php
+[Fri Mar 31 15:00:50 2017] [error] [client 141.8.183.3] File does not exist: /home/srknnet/hosting/public_html/robots.txt
+[Fri Mar 31 15:57:44 2017] [error] [client 61.197.118.227] File does not exist: /home/srknnet/hosting/public_html/tobpre
+[Fri Mar 31 22:46:10 2017] [error] [client 82.80.198.164] File does not exist: /home/srknnet/hosting/public_html/backups.php
+[Sat Apr 01 00:24:03 2017] [error] [client 180.153.236.181] File does not exist: /home/srknnet/hosting/public_html/jcnt, referer: http://hosting.serkankoc.net/jcnt/isaimini-vijay-tv-shows-download.html
+[Sat Apr 01 00:24:11 2017] [error] [client 42.236.10.114] File does not exist: /home/srknnet/hosting/public_html/robots.txt, referer: http://hosting.serkankoc.net/robots.txt
+[Sat Apr 01 05:34:29 2017] [crit] [client 85.241.101.193] mod_spamhaus: address 85.241.101.193 is blacklisted but it's not in the 127.0.0.0/8 range. POSSIBLE WILD-CARDING TYPOSQUATTERS ATTACK! IP address will not get filtered
+[Sat Apr 01 05:34:29 2017] [error] [client 85.241.101.193] File does not exist: /home/srknnet/hosting/public_html/backups.php
+[Sat Apr 01 05:34:39 2017] [error] [client 85.67.60.52] File does not exist: /home/srknnet/hosting/public_html/backups.php
+[Sat Apr 01 16:04:18 2017] [error] [client 91.239.81.62] File does not exist: /home/srknnet/hosting/public_html/favicon.ico, referer: http://hosting.serkankoc.net/
+[Sat Apr 01 16:04:24 2017] [error] [client 91.239.81.62] File does not exist: /home/srknnet/hosting/public_html/admon
+[Sat Apr 01 18:59:31 2017] [error] [client 153.151.235.90] File does not exist: /home/srknnet/hosting/public_html/tobpre
+[Sat Apr 01 19:06:50 2017] [error] [client 108.167.189.102] File does not exist: /home/srknnet/hosting/public_html/modules/servers/title90.php, referer: http://hosting.serkankoc.net/modules/servers/title90.php
+[Sat Apr 01 19:06:51 2017] [error] [client 104.131.207.160] File does not exist: /home/srknnet/hosting/public_html/modules/servers/globalsignvouchers/info.php, referer: http://hosting.serkankoc.net/modules/servers/globalsignvouchers/info.php
+[Sat Apr 01 19:06:52 2017] [error] [client 91.218.229.221] File does not exist: /home/srknnet/hosting/public_html/.git/objects/7e, referer: http://hosting.serkankoc.net/.git/objects/7e/css.php
+[Sat Apr 01 19:06:55 2017] [error] [client 173.201.196.10] File does not exist: /home/srknnet/hosting/public_html/templates/orderforms/ajaxcart/global89.php, referer: http://hosting.serkankoc.net/templates/orderforms/ajaxcart/global89.php
+[Sat Apr 01 19:07:09 2017] [error] [client 184.168.200.36] File does not exist: /home/srknnet/hosting/public_html/modules/registrars/opensrs/press37.php, referer: http://hosting.serkankoc.net/modules/registrars/opensrs/press37.php
+[Sat Apr 01 19:07:11 2017] [error] [client 184.168.152.175] File does not exist: /home/srknnet/hosting/public_html/modules/servers/system90.php, referer: http://hosting.serkankoc.net/modules/servers/system90.php
+[Sat Apr 01 19:07:13 2017] [error] [client 50.87.153.5] File does not exist: /home/srknnet/hosting/public_html/includes/jscript/tiny_mce/themes/test49.php, referer: http://hosting.serkankoc.net/includes/jscript/tiny_mce/themes/test49.php
+[Sat Apr 01 19:07:13 2017] [error] [client 178.210.90.90] File does not exist: /home/srknnet/hosting/public_html/.git/objects/info/start.php, referer: http://hosting.serkankoc.net/.git/objects/info/start.php
+[Sat Apr 01 20:00:25 2017] [error] [client 141.8.183.3] File does not exist: /home/srknnet/hosting/public_html/robots.txt
+[Sat Apr 01 23:54:56 2017] [error] [client 141.8.183.3] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Sat Apr 01 23:55:00 2017] [error] [client 141.8.183.3] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Sat Apr 01 23:55:04 2017] [error] [client 178.154.189.9] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Sat Apr 01 23:55:08 2017] [error] [client 141.8.142.173] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Sat Apr 01 23:55:11 2017] [error] [client 178.154.189.36] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Sat Apr 01 23:55:17 2017] [error] [client 93.158.152.74] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Sat Apr 01 23:55:19 2017] [error] [client 141.8.142.166] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Sat Apr 01 23:55:23 2017] [error] [client 141.8.184.9] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Sat Apr 01 23:55:26 2017] [error] [client 141.8.142.47] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Sat Apr 01 23:55:30 2017] [error] [client 141.8.142.186] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Sat Apr 01 23:55:33 2017] [error] [client 95.108.179.2] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Sat Apr 01 23:55:38 2017] [error] [client 178.154.189.26] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Sat Apr 01 23:55:41 2017] [error] [client 178.154.200.6] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Sat Apr 01 23:55:44 2017] [error] [client 5.255.253.77] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Sat Apr 01 23:55:48 2017] [error] [client 5.255.253.77] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Sat Apr 01 23:55:51 2017] [error] [client 5.255.253.77] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Sat Apr 01 23:55:58 2017] [error] [client 141.8.183.3] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Sat Apr 01 23:56:01 2017] [error] [client 141.8.183.13] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Sat Apr 01 23:56:05 2017] [error] [client 141.8.183.13] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Sat Apr 01 23:56:08 2017] [error] [client 178.154.189.9] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Sat Apr 01 23:56:11 2017] [error] [client 5.255.253.77] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Sat Apr 01 23:56:14 2017] [error] [client 5.255.253.77] File does not exist: /home/srknnet/hosting/public_html/jcnt
+[Sun Apr 02 00:45:30 2017] [error] [client 178.154.200.58] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Sun Apr 02 00:45:32 2017] [error] [client 37.9.113.9] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Sun Apr 02 02:08:42 2017] [error] [client 178.154.149.14] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Sun Apr 02 02:08:45 2017] [error] [client 141.8.183.3] File does not exist: /home/srknnet/hosting/public_html/jcnt
+[Sun Apr 02 02:21:02 2017] [error] [client 141.8.183.3] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Sun Apr 02 03:37:26 2017] [error] [client 42.236.99.142] File does not exist: /home/srknnet/hosting/public_html/jcnt, referer: http://hosting.serkankoc.net/jcnt/jadwal-tour-n.d.x-a.k.a-bulan-oktober.html
+[Sun Apr 02 04:08:43 2017] [error] [client 60.1.122.5] File does not exist: /home/srknnet/hosting/public_html/jcnt
+[Sun Apr 02 04:59:15 2017] [error] [client 141.8.183.3] File does not exist: /home/srknnet/hosting/public_html/robots.txt
+[Sun Apr 02 04:59:19 2017] [error] [client 141.8.183.3] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Sun Apr 02 05:02:22 2017] [error] [client 141.8.184.24] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Sun Apr 02 08:34:05 2017] [crit] [client 41.43.209.162] mod_spamhaus: address 41.43.209.162 is blacklisted but it's not in the 127.0.0.0/8 range. POSSIBLE WILD-CARDING TYPOSQUATTERS ATTACK! IP address will not get filtered
+[Sun Apr 02 08:34:06 2017] [error] [client 41.43.209.162] File does not exist: /home/srknnet/hosting/public_html/backups.php
+[Sun Apr 02 08:34:16 2017] [error] [client 176.234.34.167] File does not exist: /home/srknnet/hosting/public_html/backups.php
+[Sun Apr 02 12:08:48 2017] [error] [client 173.234.153.122] File does not exist: /home/srknnet/hosting/public_html/robots.txt
+[Sun Apr 02 15:48:51 2017] [crit] [client 173.255.218.238] mod_spamhaus: address 173.255.218.238 is blacklisted but it's not in the 127.0.0.0/8 range. POSSIBLE WILD-CARDING TYPOSQUATTERS ATTACK! IP address will not get filtered
+[Sun Apr 02 15:48:51 2017] [error] [client 173.255.218.238] File does not exist: /home/srknnet/hosting/public_html/tobpre
+[Sun Apr 02 18:58:23 2017] [error] [client 133.236.94.135] File does not exist: /home/srknnet/hosting/public_html/tobpre
+[Sun Apr 02 21:02:09 2017] [error] [client 204.12.208.10] File does not exist: /home/srknnet/hosting/public_html/robots.txt
+[Sun Apr 02 21:02:11 2017] [error] [client 204.12.208.10] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Sun Apr 02 21:02:15 2017] [error] [client 204.12.208.10] File does not exist: /home/srknnet/hosting/public_html/roplt4
+[Mon Apr 03 02:53:16 2017] [error] [client 141.8.183.3] File does not exist: /home/srknnet/hosting/public_html/robots.txt
+[Mon Apr 03 04:24:29 2017] [error] [client 202.163.125.30] File does not exist: /home/srknnet/hosting/public_html/backups.php
+[Mon Apr 03 08:39:03 2017] [crit] [client 178.218.229.52] mod_spamhaus: address 52.229.218.178.sbl-xbl.spamhaus.org is blacklisted. Deny connection to hosting.serkankoc.net/backups.php
+[Mon Apr 03 08:39:13 2017] [error] [client 31.168.161.46] File does not exist: /home/srknnet/hosting/public_html/backups.php
+[Mon Apr 03 15:40:13 2017] [error] [client 112.211.162.83] File does not exist: /home/srknnet/hosting/public_html/backups.php
