@@ -162,3 +162,16 @@
 [Mon Apr 03 08:39:03 2017] [crit] [client 178.218.229.52] mod_spamhaus: address 52.229.218.178.sbl-xbl.spamhaus.org is blacklisted. Deny connection to hosting.serkankoc.net/backups.php
 [Mon Apr 03 08:39:13 2017] [error] [client 31.168.161.46] File does not exist: /home/srknnet/hosting/public_html/backups.php
 [Mon Apr 03 15:40:13 2017] [error] [client 112.211.162.83] File does not exist: /home/srknnet/hosting/public_html/backups.php
+[Tue Apr 04 12:19:17 2017] [error] [client 5.189.167.236] File does not exist: /home/fibosoft/hosting/public_html/favicon.ico, referer: http://hosting.fibosoft.com/
+[Wed Apr 05 00:45:58 2017] [error] [client 5.189.167.236] File does not exist: /home/fibosoft/hosting/public_html/favicon.ico, referer: http://hosting.fibosoft.com/
+[Wed Apr 05 01:04:26 2017] [error] [client 5.189.167.236] File does not exist: /home/fibosoft/hosting/public_html/favicon.ico, referer: http://hosting.fibosoft.com/index.php
+[Wed Apr 05 01:04:28 2017] [error] [client 5.189.167.236] File does not exist: /home/fibosoft/hosting/public_html/favicon.ico, referer: http://hosting.fibosoft.com/index.php
+[Wed Apr 05 03:08:53 2017] [error] [client 5.189.167.236] File does not exist: /home/fibosoft/hosting/public_html/favicon.ico
+[Thu Apr 06 12:11:37 2017] [error] [client 5.189.167.236] File does not exist: /home/fibosoft/hosting/public_html/robots.txt
+[Fri Apr 07 03:05:33 2017] [error] [client 5.189.167.236] File does not exist: /home/fibosoft/hosting/public_html/robots.txt
+[Fri Apr 07 21:28:57 2017] [error] [client 5.189.167.236] File does not exist: /home/fibosoft/hosting/public_html/robots.txt
+[Sat Apr 08 11:51:37 2017] [error] [client 5.189.167.236] File does not exist: /home/fibosoft/hosting/public_html/favicon.ico, referer: http://hosting.fibosoft.com/
+[Tue Apr 11 14:28:51 2017] [error] [client 5.189.167.236] File does not exist: /home/fibosoft/hosting/public_html/favicon.ico, referer: http://hosting.fibosoft.com/
+[Wed Apr 12 20:25:16 2017] [error] [client 5.189.167.236] File does not exist: /home/fibosoft/hosting/public_html/favicon.ico
+[Thu Apr 13 13:51:04 2017] [error] [client 5.189.167.236] File does not exist: /home/fibosoft/hosting/public_html/favicon.ico, referer: http://hosting.fibosoft.com/
+[Thu Apr 20 07:13:06 2017] [error] [client 5.189.167.236] File does not exist: /home/fibosoft/hosting/public_html/robots.txt
